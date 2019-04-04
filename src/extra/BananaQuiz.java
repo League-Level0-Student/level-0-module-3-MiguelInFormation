@@ -17,8 +17,8 @@ public class BananaQuiz
 		//	ask them what is their favorite hobby
 		//	show a pop up that says "<your hobby> is much better with bananas!"
 
-		//4. OPTIONAL: if they say something other than “yes�? or “no�?
-		//	show a pop up that says “You are bananas!�?
+		//4. OPTIONAL: if they say something other than “yes�? or “no�?
+		//	show a pop up that says “You are bananas!�?
 	
 	}
 

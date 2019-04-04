@@ -24,6 +24,7 @@ public class WalkOfFame {
 		 * Hint: The distance between stars is 50.
 		 */
 
+		
 	}
 
 }
