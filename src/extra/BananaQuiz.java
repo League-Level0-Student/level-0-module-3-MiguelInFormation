@@ -16,11 +16,16 @@ public class BananaQuiz {
 			JOptionPane.showMessageDialog(null, "your crazy");
 			return;
 		}
+		
 		String bad=JOptionPane.showInputDialog("whats your favorite hobby"); 
 if (bc.equals("yes")) {
  	JOptionPane.showMessageDialog(null, bad + "  is much better with bananas!");
+ 	
+ 	
 }
-		// 3. if they say yes
+
+
+// 3. if they say yes
 		// ask them what is their favorite hobby
 		// show a pop up that says "<your hobby> is much better with bananas!"
 
